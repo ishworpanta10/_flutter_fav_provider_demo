@@ -15,6 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="./lib/screenshots/screen1.png"  alt="Home Page"/>
-<br />
-<img src="./lib/screenshots/screen1.png"  alt="Favourite Page"/>
+<img src="./lib/screenshots/screen1.png" height="500px"  alt="Home Page"/>     <img height="500px" src="./lib/screenshots/screen1.png"  alt="Favourite Page"/>
+
